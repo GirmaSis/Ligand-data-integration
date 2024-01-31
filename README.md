@@ -1,10 +1,10 @@
 ### Ligand binding data synthesis: Integrating physicochemical and affinity metrics
 
 It focuses on merging and analyzing datasets to extract meaningful insights, specifically related to ligand efficiency and binding affinity. <br>
-The project utilizes data from two primary sources:
 
-***small library_znd.csv*** containing ligands with their respective binding affinity values.
-***109_p10_filtered_datawarrior.xlsx*** generated from the Data Warrior tool, providing detailed physicochemical parameters.
+The project utilizes data from two primary sources:
+1. ***small library_znd.csv*** containing ligands with their respective binding affinity values.
+2. ***109_p10_filtered_datawarrior.xlsx*** generated from the Data Warrior tool, providing detailed physicochemical parameters.
 
 ***Goal:*** to integrate these datasets to create a unified view that combines binding affinity data with physicochemical properties. This integration is pivotal for further analysis in drug discovery and molecular docking studies.
 
